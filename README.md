@@ -1,6 +1,6 @@
 # Kodluyoruz First Repo
 
-This repo [Kodluyoruz](https://www.kodluyoruz.org) is the first repo we created in the Git Training. It contains one README file.
+This repo is the first repo we created in the [Kodluyoruz](https://www.kodluyoruz.org) Git Training. It contains one README file.
 
 ## Installation
 
