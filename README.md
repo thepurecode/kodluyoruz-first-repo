@@ -7,7 +7,7 @@ This repo [Kodluyoruz](https://www.kodluyoruz.org) is the first repo we created 
 First, clone the project. (Here's the link you got from your repo)
 
 ```bash
-git clone https://github.com/thepurecode/kodluyoruz-first-repo
+git clone https://github.com/thepurecode/kodluyoruz-first-repo.git
 
 ```
 
