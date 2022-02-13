@@ -1,2 +1,30 @@
-# kodluyoruz-first-repo
-The first repo I opened within the Kodluyoruz Bootcamp
+# Kodluyoruz First Repo
+
+This repo [Kodluyoruz](https://www.kodluyoruz.org) is the first repo we created in the Git Training. It contains one README file.
+
+## Installation
+
+First, clone the project. (Here's the link you got from your repo)
+
+```bash
+git clone https://github.com/thepurecode/kodluyoruzilkrepo.git
+```
+
+## Usage
+
+After cloning the project, open it in Visual Studio Code.
+
+For Linux:
+
+```bash
+cd kodluyoruzilkrepo
+code .
+```
+
+## Contributing
+
+Pull requests are accepted. For major changes, please open a thread to discuss what you want to change first.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
