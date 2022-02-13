@@ -7,7 +7,8 @@ This repo [Kodluyoruz](https://www.kodluyoruz.org) is the first repo we created 
 First, clone the project. (Here's the link you got from your repo)
 
 ```bash
-git clone https://github.com/thepurecode/kodluyoruzilkrepo.git
+git clone https://github.com/thepurecode/kodluyoruz-first-repo
+
 ```
 
 ## Usage
@@ -17,7 +18,8 @@ After cloning the project, open it in Visual Studio Code.
 For Linux:
 
 ```bash
-cd kodluyoruzilkrepo
+cd kodluyoruz-first-repo
+
 code .
 ```
 
